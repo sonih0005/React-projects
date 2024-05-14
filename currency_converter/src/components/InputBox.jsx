@@ -47,7 +47,7 @@
 // export default InputBox;
 
 
-import React, {useId} from 'react'
+import {useId} from 'react'
 
 function InputBox({
     label,
